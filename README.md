@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @betler
 - 👀 I’m interested in all computer related things.
-- 🌱 I’m currently learning ITIL
+- 🌱 I’m certified in ITIL Foundation
 - ... and I'm building this page
 
 <!---
